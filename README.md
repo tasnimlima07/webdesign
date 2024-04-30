@@ -1,6 +1,5 @@
-# WebDesign
+# Skinshoot
 
-Welcome to the WebDesign repository!
 ![WebDesign](/images/sknshoot.png)
 
 
