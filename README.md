@@ -1,7 +1,7 @@
 # WebDesign
 
 Welcome to the WebDesign repository!
-![WebDesign](https://github.com/yourusername/yourrepository/blob/main/images/webdesign.png)
+![WebDesign](images/sknshoot)
 
 
 ## Installation
