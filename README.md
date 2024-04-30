@@ -1,7 +1,7 @@
 # WebDesign
 
 Welcome to the WebDesign repository!
-![WebDesign](images/sknshoot)
+![WebDesign](/images/sknshoot.png)
 
 
 ## Installation
